@@ -12,7 +12,7 @@ Para ver las diapositivas:
 > docker run --rm -p "8000:8000" becorecode/curso-intro-jenkins-modulo-1:latest
 ```
 
-Una vez levantado el contenedor, accede con un navegador web a `http://localhost:8001`
+Una vez levantado el contenedor, accede con un navegador web a `http://localhost:8000`
 
 ## Navegación
 
@@ -24,7 +24,7 @@ Las diapositivas están desarrolladas usando [reveal.js](https://revealjs.com/#/
 * Para imprimirlas:
   * Accede a la URL `http://localhost:8010/?print-pdf`
   * Imprime la página 
-  * Si deseas añadir las notas del presentador utiliza la URL  `http://localhost:8010/?print-pdf&showNotes=true`
+  * Si deseas añadir las notas del presentador utiliza la URL  `http://localhost:8000/?print-pdf&showNotes=true`
 
 ## Desarrollo
 
