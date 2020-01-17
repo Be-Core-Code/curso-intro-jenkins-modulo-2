@@ -3,6 +3,9 @@
 
 ## Índice
 
+* Instalación de plugins
+* Actualizaciones
+* Gestión de plugins: desinstalar, desactivar y bajar versión
 
 ## Visualización
 
