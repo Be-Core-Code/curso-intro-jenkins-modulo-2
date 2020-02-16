@@ -1,5 +1,5 @@
 # Diapositivas del Curso de Introducción a Jenkins
-## Módulo 1: Instalación
+## Módulo 2: Plugins
 
 ## Índice
 
@@ -53,7 +53,7 @@ Finalmente, levantamos el contenedor:
 > docker-compose up
 ```
 
-Puedes acceder a las diapositivas en `localhost:8010`. Haz los cambios que necesites en las diapositovas situadas en la carpeta
+Puedes acceder a las diapositivas en `localhost:8002`. Haz los cambios que necesites en las diapositovas situadas en la carpeta
 `slides/` y recarga el navegador para ver el resultado.
 
 Si quieres cambiar el puerto, puedes detener los servicios con `docker-compose down`, editar el fichero 
